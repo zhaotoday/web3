@@ -1,3 +1,6 @@
+#### 网站
+- [以太坊开发者资源](https://ethereum.org/zh/developers/)
+
 #### 文章
 - [我认为 web3 是什么（大白话 web3）](https://juejin.cn/post/7091606409208397854)
 - [聊一聊Web3是什么，Web3从入门到精通开发学习路线](https://juejin.cn/post/7307185531330838543)
