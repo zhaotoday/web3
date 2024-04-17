@@ -1,5 +1,6 @@
 #### 网站
 - [以太坊开发者资源](https://ethereum.org/zh/developers/)
+- [ethers.js 中文文档](https://learnblockchain.cn/ethers_v5/)
 
 #### 文章
 - [我认为 web3 是什么（大白话 web3）](https://juejin.cn/post/7091606409208397854)
