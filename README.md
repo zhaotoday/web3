@@ -9,6 +9,7 @@
 - [一个Web3开发的入门历程](https://juejin.cn/post/7138072108516507661)
 - [还在考虑要不要加入Web3？Web3求职全攻略](https://juejin.cn/post/7189499500925288504)
 - [万字长文聊聊Web3的组成架构](https://juejin.cn/post/7193142057848799290)
+- [web3实战课01：链接你的钱包](https://juejin.cn/post/7349752708385570870)
 
 #### 视频
 - [北京大学肖臻老师《区块链技术与应用》公开课](https://www.bilibili.com/video/BV1Vt411X7JF/)
